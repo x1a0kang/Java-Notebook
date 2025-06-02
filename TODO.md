@@ -12,13 +12,13 @@ LinkedBlockingQueue和ArrayBlockingQueue
 
 ~~项目中的难点~~
 
-怎么评价模型生成结果，怎么调优
+~~怎么评价模型生成结果，怎么调优~~
 
-作为开发对prompt调优有理解吗
+~~作为开发对prompt调优有理解吗~~
 
 ~~代理模式在Java中的两种方式~~
 
 SQL调优
 
-背包问题
+~~背包问题~~
 
